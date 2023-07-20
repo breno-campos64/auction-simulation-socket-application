@@ -11,6 +11,7 @@
 - Java
 
 ## How to run
+- Install Java
 - Open cmd, then type ipconfig
 - Copy the IPv4 address
 - Open the "ClienteComprador.java" file, then replace "localhost" with the copied IPv4 address
