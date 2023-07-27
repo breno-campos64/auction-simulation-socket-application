@@ -1,6 +1,7 @@
 # Auction Simulation Socket Application
 - College group project on socket communication
 - Aims to simulate a socket based auction application
+- UI is in brazilian portuguese
 
 ## Previews
 ![preview1](https://github.com/breno-campos64/auction-simulation-socket-application/blob/main/assets/preview_1.png)
